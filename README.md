@@ -10,6 +10,7 @@
 - ✍️ Write rich task descriptions and checklists  
 - 🔄 Real-time updates using Socket.io  
 - 👥 Team collaboration  
+team co
 - 🌙 Light/Dark mode toggle  
 - 🔐 JWT Auth (Login / Register)  
 - 📱 Fully responsive design
